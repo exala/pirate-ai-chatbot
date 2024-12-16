@@ -126,6 +126,6 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 For any issues or queries, open an issue on GitHub or reach out to me on:
 
-- Discord: [YourDiscordUsername#1234](https://discord.com/users/exala.h)
-- Instagram: [@your_instagram_handle](https://www.instagram.com/exala.h/)
+- Discord: [exala.h](https://discord.com/users/exala.h)
+- Instagram: [@exala.h](https://www.instagram.com/exala.h/)
 - Email: **hasan.ag93@gmail.com**
